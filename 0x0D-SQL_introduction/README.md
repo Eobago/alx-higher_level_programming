@@ -1,1 +1,1 @@
-my Sql begins from here
+I just started learning sql language
