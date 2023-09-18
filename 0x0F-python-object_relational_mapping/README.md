@@ -1,1 +1,1 @@
-This project for understanding of Python - Object-relational mapping
+ This is a project for Python - Object-relational mapping
